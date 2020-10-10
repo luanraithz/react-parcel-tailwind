@@ -1,5 +1,5 @@
 {
-  "name": "tailwind-parcel",
+  "name": "tailwind-react-parcel",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
@@ -7,11 +7,9 @@
     "start": "parcel start index.html",
     "build": "parcel build index.html"
   },
-  "devDependencies": {
-    "tailwindcss": "^1.8.12"
-  },
   "dependencies": {
-    "parcel-bundler": "^1.2.0",
+    "tailwindcss": "^1.8.12",
+    "parcel-bundler": "^1.12.4",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   }

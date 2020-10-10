@@ -1,19 +1,10 @@
-# Tailwind CSS Parcel Starter Project
+# Tailwind React Parcel Boilerplate
 
-This is an example of a super simple Parcel setup for using [Tailwind CSS](https://tailwindcss.com).
+> As minimal as possible
 
-To get started, clone the project and install the dependencies:
+Use this project as a template for your simple projects.
 
-```
-# Using npm
-npm install
+The commands `yarn build` and `yarn start` are ready to go as soon as you install your dependencies.
 
-# Using Yarn
-yarn
-```
-
-After that, start up Parcel:
-
-```
-parcel index.html
-```
+## Build stats
+![stats](./preview-build.png)
